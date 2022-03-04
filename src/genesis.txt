@@ -1,0 +1,21 @@
+BLOCK
+header:
+timestamp: 2022-02-03 16:15:00
+prev: 0x0000000000000000000000000000000000000000000000000000000000000000
+root: 0x96837d59c20b2893f5e2a9a625d2e23a5332ad7372071e267492425f171b2374
+target: 0x000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+nonce: 65281174
+
+merkle:
+0x96bd4a3dd97d0e5cac71b737818db6364955aa2810a0b32b0994cf99850cc7c2
+0x96bd4a3dd97d0e5cac71b737818db6364955aa2810a0b32b0994cf99850cc7c2
+
+transaction:
+inputs:
+txid:
+index:
+unlock:
+outputs:
+amount: 1000
+lock: OP_DUP OP_HASH160 <371c20fb2e9899338ce5e99908e64fd30b789313> OP_EQUALVERIFY OP_CHECKSIG
+

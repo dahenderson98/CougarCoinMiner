@@ -1,0 +1,9 @@
+transaction:
+inputs:
+txid:
+index:
+unlock:
+outputs:
+amount: 1000
+lock: OP_DUP OP_HASH160 <371c20fb2e9899338ce5e99908e64fd30b789313> OP_EQUALVERIFY OP_CHECKSIG
+
